@@ -10,7 +10,7 @@ This part is build using node js.
 Clone the Repository
 
 ```bash
- git clone https://Bitnine_AGE_Solution
+ git clone https://github.com/taimoor5172/Bitnine_AGE.git
 ```
 Go to the Question3 folder
 

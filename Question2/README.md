@@ -9,7 +9,7 @@ Implemented in C language.
 Clone the Repository
 
 ```bash
- git clone https://Bitnine_AGE_Solution
+ git clone https://github.com/taimoor5172/Bitnine_AGE.git
 ```
 Go to the Question2
 
@@ -20,6 +20,7 @@ Go to the Question2
 To Run Program
 
 Right click and select the Run Code at the top 
+
 OR 
 
 ```bash
