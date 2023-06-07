@@ -1,0 +1,25 @@
+Iterative Approach:
+=> Advantages
+- The iterative approach has a simple and straightforward implementation.
+-It avoids function call overhead and does not require additional space.
+=> Disadvantages
+Similar to the recursive approach, the iterative approach may still have redundant calculations, resulting in suboptimal performance for larger values of n.
+
+
+Recursive Approach:
+=> Advantages
+   - For a recursive function, you only need to define the base case and recursive case.
+   - So it is easy to understand and implement.
+   - The code looks concise.
+=> Disadvantages
+   - The recursive approach may lead to redundant calculations, resulting in an exponential time complexity.
+   - It has greater space requirements as each function call will remain in the stack until the base case is reached.
+
+Dynamic Approach:
+=> Advantages
+   - Dynamic programming eliminates redundant calculations and reduces the time complexity to linear.
+   - It is efficient for large values of n since each Fibonacci number is calculated only once.
+=> Disadvantages
+   - The dynamic programming approach requires additional space to store the intermediate results.
+   - The code becomes slightly more complex due to array initialization and loop iteration.
+
